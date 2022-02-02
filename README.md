@@ -17,17 +17,22 @@
 * [Naver Blog](https://blog.naver.com/iko153)   
 
 ## 💻My Projects   
-<!-- * [KG_VCR](https://github.com/jaeyun95/KG_VCR) -->
+* [Hanium Contest](https://github.com/jinsusong/18-contestPrj-spring-truck)
 
 ## 🎓My Papers
-<!-- * [Design and Implementation of Episodic Memory for Context Management](https://www.eiric.or.kr/literature/ser_view.php? -->
+* [Apriori based Big Data Processing System for Improve Sensor Data Throughput in IoT Environments](https://www.koreascience.or.kr/article/JAKO202130865154553.page?&lang=en
 
-## 🏆My Awards
-<!-- * [2018 춘계정보처리학회 은상 / 2018 The KIPS Spring Conference(Silver award)](https://github.com/jaeyun95/jaeyun95/tree/master/Awards/2018spring/README.md)  -->
+<!-- ## 🏆My Awards
+* [2021 춘계정보처리학회 우수논문상 / 2021 The KIPS Spring Conference(Silver award)](https://github.com/jaeyun95/jaeyun95/tree/master/Awards/2018spring/README.md)  -->
 
 ## 📖My Studies   
-<!-- * [Paper model](https://github.com/jaeyun95/paper_models)
- -->
+* [2015~2020 NLP Paper review](https://github.com/jinsusong/study-NLP-paper-review-2015-2020)
+* [NLP Model BERT](https://github.com/jinsusong/study-NLP-BERT)
+* [NLP Model Transformer](https://github.com/jinsusong/study-NLP-Transformer)
+* [Machine Learning](https://github.com/jinsusong/ML_DL)
+* [Kaggle](https://github.com/jinsusong/study-Kaggle)
+* [Baekjoon OJ](https://github.com/jinsusong/study-Baekjoon)
+
  
  
  <div align=center>
