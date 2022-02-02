@@ -20,7 +20,7 @@
 * [Hanium Contest](https://github.com/jinsusong/18-contestPrj-spring-truck)
 
 ## 🎓My Papers
-* [Apriori based Big Data Processing System for Improve Sensor Data Throughput in IoT Environments](https://www.koreascience.or.kr/article/JAKO202130865154553.page?&lang=en
+* [Apriori based Big Data Processing System for Improve Sensor Data Throughput in IoT Environments](https://www.koreascience.or.kr/article/JAKO202130865154553.page?&lang=en)
 
 <!-- ## 🏆My Awards
 * [2021 춘계정보처리학회 우수논문상 / 2021 The KIPS Spring Conference(Silver award)](https://github.com/jaeyun95/jaeyun95/tree/master/Awards/2018spring/README.md)  -->
