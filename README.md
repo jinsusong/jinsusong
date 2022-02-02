@@ -17,7 +17,7 @@
 * [Naver Blog](https://blog.naver.com/iko153)   
 
 <!-- ## 💻My Projects    -->
-## 💻Programming
+## 💻My Programming
 * [Kaggle](https://github.com/jinsusong/study-Kaggle)
 * [Baekjoon OJ](https://github.com/jinsusong/study-Baekjoon)
 * [Hanium Contest](https://github.com/jinsusong/18-contestPrj-spring-truck)
