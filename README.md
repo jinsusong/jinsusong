@@ -16,7 +16,10 @@
 ## 🏠My HomePages
 * [Naver Blog](https://blog.naver.com/iko153)   
 
-## 💻My Projects   
+<!-- ## 💻My Projects    -->
+## 💻Programming
+* [Kaggle](https://github.com/jinsusong/study-Kaggle)
+* [Baekjoon OJ](https://github.com/jinsusong/study-Baekjoon)
 * [Hanium Contest](https://github.com/jinsusong/18-contestPrj-spring-truck)
 
 ## 🎓My Papers
@@ -30,8 +33,7 @@
 * [NLP Model BERT](https://github.com/jinsusong/study-NLP-BERT)
 * [NLP Model Transformer](https://github.com/jinsusong/study-NLP-Transformer)
 * [Machine Learning](https://github.com/jinsusong/ML_DL)
-* [Kaggle](https://github.com/jinsusong/study-Kaggle)
-* [Baekjoon OJ](https://github.com/jinsusong/study-Baekjoon)
+
 
  
  
