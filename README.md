@@ -14,7 +14,8 @@
 
 ---
 ## 🏠My HomePages
-* [Naver Blog](https://blog.naver.com/iko153)   
+* [Naver Blog](https://blog.naver.com/iko153)
+* [Notion](https://www.notion.so/PyTorch-217004801d1447e08f73aa821f605624)   
 
 <!-- ## 💻My Projects    -->
 ## 💻My Programming
