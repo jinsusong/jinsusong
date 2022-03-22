@@ -35,6 +35,9 @@
 * [NLP Model Transformer](https://github.com/jinsusong/study-NLP-Transformer)
 * [Machine Learning](https://github.com/jinsusong/ML_DL)
 * [SAP Programming](https://github.com/jinsusong/study-SAP)
+* [CS224N-lecture-Review](https://github.com/jinsusong/study-CS224N-lecture-Review)
+* [Machine Learning-PyTorch](https://github.com/jinsusong/study-pytorch-DL)
+* [NLP-Basic](https://github.com/jinsusong/study-nlp-basic)
 
 
  
