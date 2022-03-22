@@ -30,14 +30,18 @@
 * [2021 춘계정보처리학회 우수논문상 / 2021 The KIPS Spring Conference(Silver award)](https://github.com/jaeyun95/jaeyun95/tree/master/Awards/2018spring/README.md)  -->
 
 ## 📖My Studies   
+* [Machine Learning](https://github.com/jinsusong/ML_DL)
+* [Deep Learning-PyTorch](https://github.com/jinsusong/study-pytorch-DL)
+* [NLP-Basic](https://github.com/jinsusong/study-nlp-basic)
+* [CS224N-lecture-Review](https://github.com/jinsusong/study-CS224N-lecture-Review)
 * [2015~2020 NLP Paper review](https://github.com/jinsusong/study-NLP-paper-review-2015-2020)
 * [NLP Model BERT](https://github.com/jinsusong/study-NLP-BERT)
 * [NLP Model Transformer](https://github.com/jinsusong/study-NLP-Transformer)
-* [Machine Learning](https://github.com/jinsusong/ML_DL)
+
 * [SAP Programming](https://github.com/jinsusong/study-SAP)
-* [CS224N-lecture-Review](https://github.com/jinsusong/study-CS224N-lecture-Review)
-* [ Learning-PyTorch](https://github.com/jinsusong/study-pytorch-DL)
-* [NLP-Basic](https://github.com/jinsusong/study-nlp-basic)
+
+
+
 
 
  
