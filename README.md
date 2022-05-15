@@ -38,7 +38,7 @@
 * [Naver Seach Colloquium](https://github.com/jinsusong/study-naver-search)
 * [NLP Model BERT](https://github.com/jinsusong/study-NLP-BERT)
 * [NLP Model Transformer](https://github.com/jinsusong/study-NLP-Transformer)
-* 
+
 * [SAP Programming](https://github.com/jinsusong/study-SAP)
 
 
