@@ -38,6 +38,7 @@
 * [Naver Seach Colloquium](https://github.com/jinsusong/study-naver-search)
 * [NLP Model BERT](https://github.com/jinsusong/study-NLP-BERT)
 * [NLP Model Transformer](https://github.com/jinsusong/study-NLP-Transformer)
+* [Task Oriented Dialog](https://www.notion.so/TOD-2626014912cb480a978469da1aa974c8)
 
 * [SAP Programming](https://github.com/jinsusong/study-SAP)
 
