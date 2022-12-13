@@ -15,6 +15,7 @@
 ---
 ## 🏠My HomePages
 * [Naver Blog](https://blog.naver.com/iko153)
+* [Tistory]
 * [Notion](https://www.notion.so/PyTorch-217004801d1447e08f73aa821f605624)   
 
 <!-- ## 💻My Projects    -->
@@ -40,10 +41,19 @@
 * [NLP Model Transformer](https://github.com/jinsusong/study-NLP-Transformer)
 * [NLP Task-oriented dialogue](https://github.com/jinsusong/TOD)
 * [NLP Extream Multi Label Classification](https://github.com/jinsusong/Classification)
-
 * [SAP Programming](https://github.com/jinsusong/study-SAP)
-* [Back-End Spring](https://github.com/jinsusong/Backend-Spring)
-* [Back-End CS]()
+
+### CS 
+* [자료구조]
+* [알고리즘]
+* [네트워크]
+* [운영체제]
+* [데이터베이스]
+
+### Back-End 
+* [Effective Java] 
+* [Spring Framework](https://github.com/jinsusong/Backend-Spring)
+* [JPA]
 
 
 
