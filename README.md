@@ -43,7 +43,8 @@
 * [NLP Extream Multi Label Classification](https://github.com/jinsusong/Classification)
 * [SAP Programming](https://github.com/jinsusong/study-SAP)
 
-### CS 
+### Computer Science 
+* [Design Pattern]()
 * [자료구조]
 * [알고리즘]
 * [네트워크]
