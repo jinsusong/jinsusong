@@ -44,7 +44,7 @@
 * [SAP Programming](https://github.com/jinsusong/study-SAP)
 
 ### Computer Science 
-* [Design Pattern]()
+* [Design Pattern](https://www.notion.so/Design-Pattern-91536e7e58c7424bb8115ee874bafe3b)
 * [자료구조]
 * [알고리즘]
 * [네트워크]
