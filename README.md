@@ -22,7 +22,7 @@
 ## 💻My Programming
 * [Kaggle](https://github.com/jinsusong/study-Kaggle)
 * [Hanium Contest](https://github.com/jinsusong/18-contestPrj-spring-truck)
-* [Back-End Baekjoon](https://github.com/jinsusong/study-Baekjoon)
+* [Baekjoon](https://github.com/jinsusong/study-Baekjoon)
 
 ## 🎓My Papers
 * [Apriori based Big Data Processing System for Improve Sensor Data Throughput in IoT Environments](https://www.koreascience.or.kr/article/JAKO202130865154553.page?&lang=en)
