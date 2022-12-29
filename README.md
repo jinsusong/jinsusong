@@ -33,7 +33,7 @@
 * [2021 춘계정보처리학회 우수논문상 / 한국정보처리학회]()
 * [2018 한이음 ICT 공모전 / 입선]()
 
-## 🌱My certificate
+## 🌱My ertificate
 * [SAP Certified Development Associate -ABAP with SAP NetWearver 7.50 / SAP]()
 * [정보처리기사 / 한국정보통신진흥원]()
 * [SQL개발자(SQLD) / 한국데이터산업진흥원]()
