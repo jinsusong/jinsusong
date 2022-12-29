@@ -25,7 +25,7 @@
 * [Baekjoon](https://github.com/jinsusong/study-Baekjoon)
 
 ## 🎓My Papers
-* [Apriori based Big Data Processing System for Improve Sensor Data Throughput in IoT Environments(KCI)](https://www.koreascience.or.kr/article/JAKO202130865154553.page?&lang=en)
+* [Apriori based Big Data Processing System for Improve Sensor Data Throughput in IoT Environments(KTCCS)](https://www.koreascience.or.kr/article/JAKO202130865154553.page?&lang=en)
 * [A Differential Learning Technique Based on Meta Learning for Software Vulnerability Classification(Thesis)]()
 
 ## 🏆My Awards
