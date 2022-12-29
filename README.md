@@ -28,8 +28,19 @@
 * [Apriori based Big Data Processing System for Improve Sensor Data Throughput in IoT Environments](https://www.koreascience.or.kr/article/JAKO202130865154553.page?&lang=en)
 * [A Differential Learning Technique Based on Meta Learning for Software Vulnerability Classification]()
 
-<!-- ## 🏆My Awards
-* [2021 춘계정보처리학회 우수논문상 / 2021 The KIPS Spring Conference(Silver award)](https://github.com/jaeyun95/jaeyun95/tree/master/Awards/2018spring/README.md)  -->
+## 🏆My Awards
+* [2022 춘계정보처리학회 우수논문상 / 한국정보처리학회]()
+* [2021 춘계정보처리학회 우수논문상 / 한국정보처리학회]()
+* [2018 한이음 ICT 공모전 / 입선]()
+
+## 🌱My certificate
+* [SAP Certified Development Associate -ABAP with SAP NetWearver 7.50 / SAP]()
+* [정보처리기사 / 한국정보통신진흥원]()
+* [SQL개발자(SQLD) / 한국데이터산업진흥원]()
+* [리눅스마스터 2급 / 한국정보통신진흥협회]()
+* [네트워크관리사 2급 / 한국정보통신자격협회]()
+* [정보처리산업기사 / 한국정보통신진흥원]()
+* [컴퓨터활용능력 1급 / 대한상공회의소]()
 
 ## 📖My Studies   
 <!--
