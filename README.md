@@ -64,11 +64,11 @@
 
 ### Computer Science 
 * [Design Pattern](https://github.com/jinsusong/CS-Study)
-* [자료구조]
-* [알고리즘]
-* [네트워크]
-* [운영체제]
-* [데이터베이스]
+* [자료구조](https://github.com/jinsusong/CS-Study)
+* [알고리즘](https://github.com/jinsusong/CS-Study)
+* [네트워크](https://github.com/jinsusong/CS-Study)
+* [운영체제](https://github.com/jinsusong/CS-Study)
+* [데이터베이스](https://github.com/jinsusong/CS-Study)
 
 ### Back-End 
 * [Effective Java] 
