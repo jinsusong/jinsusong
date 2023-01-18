@@ -20,7 +20,7 @@
 
 <!-- ## 💻My Projects    -->
 ## 💻My Programming
-* [이코테 Java](https://www.notion.so/Coding-Test-c9df3118c388486684e855f6cdfb2af2)
+* [이코테 Java](https://github.com/jinsusong/codingTest)
 * [Baekjoon Java](https://github.com/jinsusong/study-Baekjoon)
 * [Programmers Java](https://www.notion.so/Programmers-Java-dccbe8875f5e41c18e834d76dd353c54)
 * [Kaggle](https://github.com/jinsusong/study-Kaggle)
