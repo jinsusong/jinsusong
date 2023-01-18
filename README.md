@@ -30,8 +30,9 @@
 * [A Differential Learning Technique Based on Meta Learning for Software Vulnerability Classification(Thesis)]()
 
 ## 🏆My Awards
-* [2022 춘계정보처리학회 우수논문상 / 한국정보처리학회]()
-* [2021 춘계정보처리학회 우수논문상 / 한국정보처리학회]()
+* [2022 ASK 춘계학술발표대회 우수논문상 / 한국정보처리학회]()
+* [2021 춘계학술발표대회 우수논문상 / 한국정보처리학회]()
+* [2020 하계학술발표대회 우수논문상 / 한국정보전자통신기술학회]()
 * [2018 한이음 ICT 공모전          / 입선]()
 
 ## 🌱My Certificate
