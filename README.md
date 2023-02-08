@@ -16,7 +16,7 @@
 ## 🏠My HomePages
 * [Naver Blog](https://blog.naver.com/iko153)
 * [Tistory]
-* [Notion](https://www.notion.so/PyTorch-217004801d1447e08f73aa821f605624)   
+* [Notion](https://www.notion.so/f4509ce62044425ab49df83a5389384e)   
 
 <!-- ## 💻My Projects    -->
 ## 💻My Programming
