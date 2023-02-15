@@ -72,7 +72,7 @@
 * [데이터베이스](https://github.com/jinsusong/CS-Study)
 
 ### Back-End 
-* [Effective Java] 
+* [Effective Java](https://github.com/jinsusong/Effective-Java) 
 * [Spring Framework](https://github.com/jinsusong/Backend-Spring)
 * [JPA]
 
