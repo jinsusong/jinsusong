@@ -14,8 +14,8 @@
 
 ---
 ## 🏠My HomePages
-* [Naver Blog](https://blog.naver.com/iko153)
 * [Tistory](https://songjinsu.tistory.com/)
+* [Naver Blog](https://blog.naver.com/iko153)
 * [Notion](https://www.notion.so/f4509ce62044425ab49df83a5389384e)   
 
 <!-- ## 💻My Projects    -->
