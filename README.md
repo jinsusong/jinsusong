@@ -31,13 +31,13 @@
 * [A Differential Learning Technique Based on Meta Learning for Software Vulnerability Classification(Thesis)]()
 
 ## 🏆My Awards
-* [2022 ASK 춘계학술발표대회 우수논문상 / 한국정보처리학회]()
-* [2021 춘계학술발표대회 우수논문상 / 한국정보처리학회]()
-* [2020 하계학술발표대회 우수논문상 / 한국정보전자통신기술학회]()
-* [2018 한이음 ICT 공모전          / 입선]()
+* [2022 ASK 춘계학술발표대회 우수논문상 / 한국정보처리학회]
+* [2021 춘계학술발표대회 우수논문상 / 한국정보처리학회]
+* [2020 하계학술발표대회 우수논문상 / 한국정보전자통신기술학회]
+* [2018 한이음 ICT 공모전          / 입선]
 
 ## 🌱My Certificate
-* [SAP Certified Development Associate -ABAP with SAP NetWearver 7.50 / SAP]()
+* [SAP Certified Development Associate -ABAP with SAP NetWearver 7.50 / SAP]
 * [정보처리기사       / 한국정보통신진흥원]
 * [SQL개발자(SQLD)   / 한국데이터산업진흥원]
 * [리눅스마스터 2급   / 한국정보통신진흥협회]
