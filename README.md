@@ -39,7 +39,7 @@
 ## 🌱My Certificate
 * [SAP Certified Development Associate -ABAP with SAP NetWearver 7.50 / SAP]()
 * [정보처리기사       / 한국정보통신진흥원]()
-* [SQL개발자(SQLD)   / 한국데이터산업진흥원]()
+* [SQL개발자(SQLD)   / 한국데이터산업진흥원](https://github.com/jinsusong/jinsusong/blob/main/SQLD.pdf)
 * [리눅스마스터 2급   / 한국정보통신진흥협회]()
 * [네트워크관리사 2급 / 한국정보통신자격협회]()
 * [정보처리산업기사   / 한국정보통신진흥원]()
