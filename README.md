@@ -28,7 +28,7 @@
 
 ## 🎓My Papers
 * [Apriori based Big Data Processing System for Improve Sensor Data Throughput in IoT Environments(KTCCS)](https://www.koreascience.or.kr/article/JAKO202130865154553.page?&lang=en)
-* [A Differential Learning Technique Based on Meta Learning for Software Vulnerability Classification(Thesis)]()
+* [A Differential Learning Technique Based on Meta Learning for Software Vulnerability Classification(Thesis)](https://oasis.ssu.ac.kr/#/search/detail/4995329?offset=1)
 
 ## 🏆My Awards
 * [2022 ASK 춘계학술발표대회 우수논문상 / 한국정보처리학회]
