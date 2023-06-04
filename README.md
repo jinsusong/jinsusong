@@ -20,13 +20,14 @@
 * [Notion](https://www.notion.so/f4509ce62044425ab49df83a5389384e)   
 -->
 
-<!-- ## 💻My Projects    -->
+<!-- ## 💻My Projects    
 ## 💻My Programming
 * [이코테 Java](https://github.com/jinsusong/codingTest)
 * [Baekjoon Java](https://github.com/jinsusong/study-Baekjoon)
 * [Programmers Java](https://www.notion.so/Programmers-Java-dccbe8875f5e41c18e834d76dd353c54)
 * [Kaggle](https://github.com/jinsusong/study-Kaggle)
 * [Hanium Contest](https://github.com/jinsusong/18-contestPrj-spring-truck)
+-->
 
 <!--
 ## 🎓My Papers
