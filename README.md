@@ -13,6 +13,7 @@
 </div>   
 
 ---
+<!--
 ## 🏠My HomePages
 * [Tistory](https://songjinsu.tistory.com/)
 * [Naver Blog](https://blog.naver.com/iko153)
@@ -47,13 +48,13 @@
 * [Cloud PaaS-TA전문가 수료 / 한국정보화진흥원]
 
 ## 📖My Studies   
-<!--
+
 * [Machine Learning](https://github.com/jinsusong/ML_DL)
 * [Deep Learning-PyTorch](https://github.com/jinsusong/study-pytorch-DL)
 * [NLP-Basic](https://github.com/jinsusong/study-nlp-basic) 
 * [NLP CS224N-lecture-Review](https://github.com/jinsusong/study-CS224N-lecture-Review) 
 * [NLP Extream Multi Label Classification](https://github.com/jinsusong/Classification)
--->
+
 
 ### ML
 * [2015~2020 Paper review](https://github.com/jinsusong/study-NLP-paper-review-2015-2020)
@@ -76,7 +77,7 @@
 * [Spring Framework]
 * [JPA]
 
-
+-->
 
 
 
