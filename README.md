@@ -13,14 +13,14 @@
 </div>   
 
 ---
-
+<!--
 ## 🏠My HomePages
 * [Tistory](https://songjinsu.tistory.com/)
 * [Naver Blog](https://blog.naver.com/iko153)
 * [Notion](https://www.notion.so/f4509ce62044425ab49df83a5389384e)   
+-->
 
-
-<!-- ## 💻My Projects    -->
+<!-- ## 💻My Projects    
 ## 💻My Programming
 * [이코테 Java](https://github.com/jinsusong/codingTest)
 * [Baekjoon Java](https://github.com/jinsusong/study-Baekjoon)
@@ -28,8 +28,9 @@
 * [Kaggle](https://github.com/jinsusong/study-Kaggle)
 * [Hanium Contest](https://github.com/jinsusong/18-contestPrj-spring-truck)
 
+-->
 
-
+<!--
 ## 🎓My Papers
 * [Apriori based Big Data Processing System for Improve Sensor Data Throughput in IoT Environments(KTCCS)](https://www.koreascience.or.kr/article/JAKO202130865154553.page?&lang=en)
 * [A Differential Learning Technique Based on Meta Learning for Software Vulnerability Classification(Thesis)](https://oasis.ssu.ac.kr/#/search/detail/4995329?offset=1)
@@ -83,7 +84,7 @@
 * [JPA]
 
 
-
+-->
 
  
  
